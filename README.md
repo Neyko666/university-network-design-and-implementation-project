@@ -40,6 +40,8 @@ Technology implemented:
 <br>
 • Switch port security (portfast and bpduguard)
 
+PKT file in directory.
+
 <br>
 <div align = "center">
 <img src="https://github.com/Neyko666/university-network-design-and-implementation-project/assets/171580092/e9050429-c137-4c26-bf50-a9a41b91263a" width="800">
