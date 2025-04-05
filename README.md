@@ -7,21 +7,37 @@ Technology implemented:
 • IP subnetting
 <br>
 • VLAN
+<br>
 • Inter-vlan trunking (distribution switch SVI)
+<br>
 • Link aggregation (LACP)
+<br>
 • Redundancy and load balancing (HSRP)
+<br>
 • OSPF single area 
+<br>
 • BGP (routing between ISP and Internet)
+<br>
 • Routes redistribution (OSPF & BGP)
+<br>
 • Static default route
+<br>
 • DHCP server (DMZ) and DHCP relay
+<br>
 • Wireless LAN controller & lightweight access points
+<br>
 • Site-to-site IPsec VPN tunnel (on ASA firewall) (As pkt doesn't support NAT exclusion, VPN was configured but disabled to prioritize the functioning of NAT)
+<br>
 • NAT overload (PAT on ASA firewall)
+<br>
 • Zone-based policies (inside, outside, DMZ on ASA firewall)
+<br>
 • Extended access control list (ACL)
+<br>
 • Spanning tree spruning (port cost was modified on D1 to achieve better load balancing)
+<br>
 • SSH (allow only IT engineer access)
+<br>
 • Switch port security (portfast and bpduguard)
 
 <br>
@@ -30,7 +46,7 @@ Technology implemented:
 </div>
 <br>
 <div align = "center">
-<img src="https://github.com/Neyko666/university-network-design-and-implementation-project/assets/171580092/83ccff31-ecb0-4730-854b-68dd6a3797e8" width="600">
+<img src="https://github.com/Neyko666/university-network-design-and-implementation-project/assets/171580092/b18d6fd8-37e9-4883-82e4-03b67c4b0c4e" width="600">
 </div>
 <br>
 <div align = "center">
@@ -47,10 +63,6 @@ Technology implemented:
 <br>
 <div align = "center">
 <img src="https://github.com/Neyko666/university-network-design-and-implementation-project/assets/171580092/2508dcea-ff55-4370-8a37-725a4ee400db" width="600">
-</div>
-<br>
-<div align = "center">
-<img src="https://github.com/Neyko666/university-network-design-and-implementation-project/assets/171580092/b18d6fd8-37e9-4883-82e4-03b67c4b0c4e" width="600">
 </div>
 <br>
 <div align = "center">
