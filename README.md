@@ -1,8 +1,11 @@
 The uni has two campus, with one DMZ at Main campus. It supposed to be only one server farm and one wireless controller located at Main campus to support both two campus, however pkt doesn't support dhcp relay on ASA firewall, so have to add ones to Branch campus for presenting functioning.
 
 Technology implemented:
+<br>
 • 3 tiers network architect
+<br>
 • IP subnetting
+<br>
 • VLAN
 • Inter-vlan trunking (distribution switch SVI)
 • Link aggregation (LACP)
@@ -63,6 +66,4 @@ Technology implemented:
 </div>
 <br>
 
-
-![a72d92dd147574e224c461dd0935c31](https://github.com/user-attachments/assets/bdbc9806-7c2e-4179-bfba-f04eabf704fb)
 
